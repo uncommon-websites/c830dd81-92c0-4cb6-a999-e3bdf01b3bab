@@ -6,7 +6,7 @@
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mb-16">
             <h2 class="text-4xl md:text-5xl font-serif text-gray-900 leading-tight">
-                Streamline & Automate<br />Your Workflows
+                Proven Solutions Across<br />Three Core Industries
             </h2>
         </div>
 
@@ -36,9 +36,9 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="text-xl font-serif text-gray-900 mb-3">Firm-Specific Workflows</h3>
+                <h3 class="text-xl font-serif text-gray-900 mb-3">Manufacturing, CPG & Retail</h3>
                 <p class="text-sm text-gray-500 leading-relaxed">
-                    Create and automate workflows tailored to your needs, reducing manual tasks and integrating seamlessly with your existing tools. Optimize processes for research, analysis, and reporting to improve efficiency and accuracy.
+                    Improve operational efficiency and OEE through modern data infrastructure. One packaged goods manufacturer achieved 30% OEE improvement in 6 months, saving $12 million through data modernization.
                 </p>
             </div>
 
@@ -47,7 +47,7 @@
                 <div class="mb-6 bg-[#0B231E] rounded-lg p-6 aspect-[4/3] relative overflow-hidden flex flex-col">
                      <!-- Mock Interface -->
                      <div class="bg-white rounded-lg p-4 shadow-lg w-full max-w-[90%] mx-auto mt-auto mb-4 transform translate-y-2 transition-transform group-hover:translate-y-0">
-                        <div class="text-[10px] text-gray-500 mb-2">Tariff impact on top manufacturing firms</div>
+                        <div class="text-[10px] text-gray-500 mb-2">Claims analytics for pharma commercialization</div>
                         <div class="flex items-center gap-2 mb-3">
                             <div class="h-4 w-4 bg-green-800 rounded flex items-center justify-center text-white text-[8px]">AI</div>
                             <span class="text-[10px] text-gray-400">Found 12 sources</span>
@@ -72,9 +72,9 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="text-xl font-serif text-gray-900 mb-3">AI Table Interface</h3>
+                <h3 class="text-xl font-serif text-gray-900 mb-3">Pharmaceuticals & Healthcare</h3>
                 <p class="text-sm text-gray-500 leading-relaxed">
-                    Organize and manage data effortlessly with an interactive table interface. Sort, filter, and update information in real time, enabling structured analysis and seamless decision-making.
+                    Unlock insights from claims, EHR data, and commercialization analytics. Global biopharma cut time-to-insight from 30 days to under 48 hours with agentic claims analytics.
                 </p>
             </div>
 
@@ -85,32 +85,32 @@
                      <div class="bg-white rounded-lg p-4 shadow-lg w-full max-w-[90%] mx-auto mt-auto mb-4 transform translate-y-2 transition-transform group-hover:translate-y-0">
                         <div class="flex items-center gap-2 mb-3">
                             <div class="h-4 w-4 bg-green-800 rounded flex items-center justify-center text-white text-[8px]">P</div>
-                            <span class="text-[10px] text-gray-500">Generating Powerpoint...</span>
+                            <span class="text-[10px] text-gray-500">Generating Deal Analysis...</span>
                         </div>
                         <div class="text-[9px] text-gray-600 mb-3 leading-relaxed">
-                            Here is your requested deck. I customized your presentation template and included file with the backup data.
+                            Deal screening complete. I analyzed portfolio metrics and identified operational playbook opportunities.
                         </div>
                         <div class="space-y-2">
                             <div class="flex items-center justify-between p-1.5 bg-gray-50 rounded border border-gray-100">
                                 <div class="flex items-center gap-2">
                                     <div class="h-4 w-4 bg-orange-500 rounded-sm"></div>
-                                    <span class="text-[9px] font-medium">TMT Market Overview.pptx</span>
+                                    <span class="text-[9px] font-medium">Deal Sourcing Report.pptx</span>
                                 </div>
                                 <ArrowRight size={10} class="text-gray-400" />
                             </div>
                             <div class="flex items-center justify-between p-1.5 bg-gray-50 rounded border border-gray-100">
                                 <div class="flex items-center gap-2">
                                     <div class="h-4 w-4 bg-green-600 rounded-sm"></div>
-                                    <span class="text-[9px] font-medium">Tech Multiples Backup.xlsx</span>
+                                    <span class="text-[9px] font-medium">Portfolio Metrics.xlsx</span>
                                 </div>
                                 <ArrowRight size={10} class="text-gray-400" />
                             </div>
                         </div>
                     </div>
                 </div>
-                <h3 class="text-xl font-serif text-gray-900 mb-3">Material Creation</h3>
+                <h3 class="text-xl font-serif text-gray-900 mb-3">Investments & Financial Services</h3>
                 <p class="text-sm text-gray-500 leading-relaxed">
-                    Generate reports, summaries, and presentations with AI-powered automation. Transform raw data into polished, professional materials while ensuring clarity and consistency.
+                    Accelerate deal sourcing, diligence Q&A, and portfolio analysis. Leading investment firm dramatically accelerated analysis and unlocked previously inaccessible insights.
                 </p>
             </div>
         </div>

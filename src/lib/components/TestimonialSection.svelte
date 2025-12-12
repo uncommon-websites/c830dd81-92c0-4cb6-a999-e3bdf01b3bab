@@ -18,22 +18,22 @@
             <!-- Quote Content -->
             <div class="pr-8">
                 <div class="mb-8">
-                    <span class="text-sm font-bold tracking-widest uppercase">NOMURA</span>
+                    <span class="text-sm font-bold tracking-widest uppercase">FORTUNE 500 PHARMACEUTICAL</span>
                 </div>
                 <blockquote class="text-2xl md:text-3xl font-light text-gray-900 leading-relaxed mb-12">
-                    "Our strategic integration of Rogo transforms how we deliver value to clients. Rogo enables our teams to analyze market data and identify opportunities with unprecedented speed and precision, while allowing our bankers to focus more deeply on client relationships and strategic advisory."
+                    "BigLittleRobots demonstrated exceptional research, modeling, and strategic thinking skills. Our entire executive team was impressed by the speed and quality of their work. They consistently exceeded expectations on high-visibility builds for senior leadership."
                 </blockquote>
                 <div>
-                    <div class="font-medium text-gray-900">Patrice Maffre</div>
-                    <div class="text-[10px] uppercase tracking-widest text-gray-500 mt-1">International Head of Investment Banking, Nomura</div>
+                    <div class="font-medium text-gray-900">Senior Executive</div>
+                    <div class="text-[10px] uppercase tracking-widest text-gray-500 mt-1">Fortune 500 Pharmaceutical Company</div>
                 </div>
             </div>
 
             <!-- Image -->
             <div class="relative h-[600px] w-full overflow-hidden">
                 <img 
-                    src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=2071&auto=format&fit=crop" 
-                    alt="Business people walking" 
+                    src="/generated/image-confident-senior-business-executive-in-m-1765568829271-2.webp" 
+                    alt="Business executive" 
                     class="absolute inset-0 h-full w-full object-cover grayscale contrast-125"
                 />
             </div>

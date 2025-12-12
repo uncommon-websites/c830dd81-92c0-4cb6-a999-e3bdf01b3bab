@@ -1,26 +1,26 @@
 <script>
     const partners = [
-        { name: "Your Firm's Data", icon: "🏢" },
-        { name: "LSEG", icon: "🔵", color: "bg-blue-600" },
-        { name: "Dow Jones", icon: "D", color: "bg-blue-400" },
-        { name: "FactSet", icon: "F", color: "bg-blue-800" },
-        { name: "Capital IQ", icon: "S", color: "bg-red-600" },
-        { name: "PitchBook", icon: "P", color: "bg-blue-900" },
-        { name: "Preqin", icon: "P", color: "bg-purple-900" },
-        { name: "Real-time Web & News", icon: "🌐" },
-        { name: "SEC Filings", icon: "🏛️" },
-        { name: "Transcripts", icon: "📞" },
-        { name: "Investor Presentations", icon: "📊" },
-        { name: "International Filings", icon: "🌍" }
+        { name: "Fivetran", icon: "F", color: "bg-blue-600" },
+        { name: "Snowflake", icon: "❄️" },
+        { name: "Amazon Redshift", icon: "A", color: "bg-orange-600" },
+        { name: "Google BigQuery", icon: "G", color: "bg-blue-500" },
+        { name: "Microsoft Fabric", icon: "M", color: "bg-blue-700" },
+        { name: "dbt", icon: "d", color: "bg-orange-500" },
+        { name: "Power BI", icon: "P", color: "bg-yellow-600" },
+        { name: "Tableau", icon: "T", color: "bg-blue-400" },
+        { name: "Looker", icon: "L", color: "bg-purple-600" },
+        { name: "Asana", icon: "A", color: "bg-pink-500" },
+        { name: "Jira", icon: "J", color: "bg-blue-600" },
+        { name: "Slack", icon: "S", color: "bg-purple-700" }
     ];
 </script>
 
 <section class="py-24 bg-white">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mb-16 max-w-2xl">
-            <h2 class="text-3xl md:text-4xl font-serif text-gray-900 mb-6">Trusted Data</h2>
+            <h2 class="text-3xl md:text-4xl font-serif text-gray-900 mb-6">Modern Data Stack</h2>
             <p class="text-sm text-gray-500 leading-relaxed">
-                We partner with trusted data providers to bring the highest-quality financial information to our platform. Their expertise, combined with Rogo's technology, gives customers the clarity and confidence they need to move fast.
+                We work with industry-leading tools and platforms to build robust, scalable data infrastructure. Our expertise spans the entire modern data stack, from integration to visualization.
             </p>
         </div>
 
